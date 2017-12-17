@@ -4,8 +4,8 @@ This is the GitHub repository for the class Math-UA 234 Mathematical Statistics 
 
 | Lecture | Date | Description | Notebooks used | Remark |
 | --- | --- | --- | --- | --- |
-| `Lecture 1`    | | Brief review of probability | LLN_CLT | | 
-| `Lecture 2`    | | Basic statistical concepts | | |
-| `Recitation 1` | | Installing Anaconda, Python, Pandas | Python_Fundamentals, Numpy_Basics, Pandas_Basics| Bring your laptop! |
+| `Lecture 1`    | 1/23 | Brief review of probability | LLN_CLT | | 
+| `Lecture 2`    | 1/25 | Basic statistical concepts | | |
+| `Recitation 1` | 1/26 | Installing Anaconda, Python, Pandas | Python_Fundamentals, Numpy_Basics, Pandas_Basics| Bring your laptop! |
 
 

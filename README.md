@@ -11,5 +11,7 @@ W: Wassermann, CB: Casella Berger
 | `Recitation 1` | 1/26 | Installing Anaconda, Python, Pandas | Python_Fundamentals, Numpy_Basics, Pandas_Basics| | Bring your laptop! |
 | `Lecture 3`    | 1/30 | Basic statistical concepts  | | W 6 | |
 | `Lecture 4`    | 2/1 | Estimation of the CDF and its functionals, nonparametric bootsrap | Empirical_CDF, cloud_seeding | W 7-8, | HW2 Assigned, CHW2 Assigned| 
+| `Recitation 2` | 2/2 | | | | HW1 Due, CHW1 Due | 
+| `Lecture 5`    | 2/6 | Sufficient and Ancilliary statistics| | W 9.13.2, CB 6.2| |
 
 

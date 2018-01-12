@@ -12,6 +12,9 @@ W: Wassermann, CB: Casella Berger
 | `Lecture 3`    | 1/30 | Basic statistical concepts  | | W 6 | |
 | `Lecture 4`    | 2/1 | Estimation of the CDF and its functionals, nonparametric bootsrap | Empirical_CDF, cloud_seeding | W 7-8, | HW2 Assigned, CHW2 Assigned| 
 | `Recitation 2` | 2/2 | | | | HW1 Due, CHW1 Due | 
-| `Lecture 5`    | 2/6 | Sufficient and Ancilliary statistics, Exponential families| | W 9.13.2, CB 6.2| |
+| `Lecture 5`    | 2/6 | Sufficient, Ancilliary, and Complete statistics | | W 9.13.2, CB 6.2| |
+| `Lecture 6`    | 2/8 | Method of moments, Maximum likelihood estimators | | | |
+| `Recitation 3` | 2/9 | Exponential families | | | W 9.13.3, CB 3.4|
+| `Lecture 7`    | 2/13| Properties of Maximum likelihood estimators| | | |
 
 

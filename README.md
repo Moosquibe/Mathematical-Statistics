@@ -7,7 +7,7 @@ W: Wassermann, CB: Casella Berger
 | Lecture | Date | Description | Notebooks used | Reading | Remark |
 | --- | --- | --- | --- | --- | --- |
 | `Lecture 1`    | 1/23 | Probability Spaces, Distributions, LLN, CLT (Review) | LLN_CLT | W 1-5, CB 1-4 | HW 1 Assigned, CHW1 Assigned | 
-| `Lecture 2`    | 1/25 | Conditional Expectation, Sample mean and variance, Special distributions (Review)  || W 1-5, CB 1-4 
+| `Lecture 2`    | 1/25 | Conditional Expectation, Sample mean and variance, Special distributions (Review)  || W 1-5, CB 1-5 
 | No recitation | 1/26 |  | | | Bring your laptop! |
 | `Lecture 3`    | 1/30 | Basic statistical concepts  |  | W 6 | |
 | `Lecture 4`    | 2/1 | Estimation of the CDF and its functionals, nonparametric bootsrap | Empirical_CDF, cloud_seeding | W 7-8, | HW2 Assigned, CHW2 Assigned| 

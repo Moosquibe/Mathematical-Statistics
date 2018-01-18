@@ -18,6 +18,8 @@ W: Wassermann, CB: Casella Berger
 | `Lecture 7`    | 2/13| Invariance of MLE, Computation of MLE, Bayes estimators | EM_algorithm | W 9.6, 11.1, 11.2, CB 7.2.2, 7.2.3, 7.2.4 | |
 | `Lecture 8`    | 2/15| More on Bayesian estimation| | W 11.3, 11.6, 11.9 | CHW3 Assigned, HW4 Assigned |
 | `Recitation 3` | 2/16| | | | CHW2 Due |
-| `Lecture 9`    | 2/20| Best estimators with a given bias, Cramer-Rao inequality | |||
+| `Lecture 9`    | 2/20| Best unbiased estimators, Cramer-Rao inequality | | CB 7.3.2 ||
+| `Lecture 10`   | 2/22| Sufficiency and unbiasedness | | CB 7.3.3 ||
+| `Recitation 4` | 2/23| ||| HW4 Due|
 
 

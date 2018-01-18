@@ -46,7 +46,7 @@ W: Wassermann, CB: Casella Berger
 | `Lecture 23`   | 4/19| ||| |
 | `Recitation 11`| 4/20| ||| |
 | `Lecture 24`   | 4/24| ||| |
-| `Lecture 25`   | 4/26| ||| |
+| `Lecture 25`   | 4/26| ||| Term project due |
 | `Recitation 12`| 4/27| ||| |
 | `Lecture 26`   | 5/1 | ||| |
 | `Lecture 27`   | 5/3 | Final Review ||| |

@@ -27,5 +27,28 @@ W: Wassermann, CB: Casella Berger
 | `Lecture 13`   | 3/6 | ||| |
 | `Lecture 14`   | 3/8 | ||| HW7 Assigned|
 | `Recitation 6` | 3/9 | ||| HW6 Due |
+| Spring Break   | 3/13| ||| |
+| Spring Break   | 3/15| ||| |
+| Spring Break   | 3/16| ||| |
+| `Lecture 15`   | 3/20| ||| |
+| `Lecture 16`   | 3/22| ||| |
+| `Recitation 7` | 3/23| ||| |
+| `Lecture 17`   | 3/27| Midterm Review ||| |
+|    MIDTERM     | 3/29| ||| |
+| `Recitation 8` | 3/30| Solutions to Midterm ||| |
+| `Lecture 18`   | 4/3 | ||| |
+| `Lecture 19`   | 4/5 | ||| |
+| `Recitation 9` | 4/6 | ||| |
+| `Lecture 20`   | 4/10| ||| |
+| `Lecture 21`   | 4/12| ||| |
+| `Recitation 10`| 4/13| ||| |
+| `Lecture 22`   | 4/17| ||| |
+| `Lecture 23`   | 4/19| ||| |
+| `Recitation 11`| 4/20| ||| |
+| `Lecture 24`   | 4/24| ||| |
+| `Lecture 25`   | 4/26| ||| |
+| `Recitation 12`| 4/27| ||| |
+| `Lecture 26`   | 5/1 | ||| |
+| `In Class Final| 5/3 | ||| |
 
 

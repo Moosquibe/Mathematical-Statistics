@@ -19,7 +19,13 @@ W: Wassermann, CB: Casella Berger
 | `Lecture 8`    | 2/15| More on Bayesian estimation| | W 11.3, 11.6, 11.9 | CHW3 Assigned, HW4 Assigned |
 | `Recitation 3` | 2/16| | | | CHW2 Due |
 | `Lecture 9`    | 2/20| Best unbiased estimators, Cramer-Rao inequality | | CB 7.3.2 ||
-| `Lecture 10`   | 2/22| Sufficiency and unbiasedness | | CB 7.3.3 ||
+| `Lecture 10`   | 2/22| Sufficiency and unbiasedness | | CB 7.3.3 | HW5 Assigned|
 | `Recitation 4` | 2/23| ||| HW4 Due|
+| `Lecture 11`   | 2/27| ||| |
+| `Lecture 12`   | 3/1 | ||| HW6 Assigned|
+| `Recitation 5` | 3/2 | ||| HW5 Due|
+| `Lecture 13`   | 3/6 | ||| |
+| `Lecture 14`   | 3/8 | ||| HW7 Assigned|
+| `Recitation 6` | 3/9 | ||| HW6 Due |
 
 

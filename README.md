@@ -48,7 +48,8 @@ W: Wassermann, CB: Casella Berger
 | `Lecture 24`   | 4/24| ||| |
 | `Lecture 25`   | 4/26| ||| |
 | `Recitation 12`| 4/27| ||| |
-| `Lecture 26`   | 5/1 | Final Review ||| |
-| `In Class Final`| 5/3 | ||| |
+| `Lecture 26`   | 5/1 | ||| |
+| `Lecture 27`   | 5/3 | Final Review ||| |
+| `In Class Final`| 5/4 | ||| |
 
 

@@ -21,8 +21,8 @@ W: Wassermann, CB: Casella Berger
 | `Lecture 9`    | 2/20| Best unbiased estimators, Cramer-Rao inequality | | CB 7.3.2 ||
 | `Lecture 10`   | 2/22| Attainment of the Cramer-Rao bound, Sufficiency and unbiasedness | | CB 7.3.3 | HW5 Assigned|
 | `Recitation 4` | 2/23| ||| HW4 Due|
-| `Lecture 11`   | 2/27| Statistical decision theory, loss functions, risk functions|| CB 7.3.4, W 12 ||
-| `Lecture 12`   | 3/1 | ||| HW6 Assigned|
+| `Lecture 11`   | 2/27| Statistical decision theory, loss functions, risk functions|| CB 7.3.4, W 12.1-12.3 ||
+| `Lecture 12`   | 3/1 | Asymptotic evaluation of point estimations ||CB 10.1 W 9.7-9.11 | HW6 Assigned|
 | `Recitation 5` | 3/2 | ||| HW5 Due|
 | `Lecture 13`   | 3/6 | ||| |
 | `Lecture 14`   | 3/8 | ||| HW7 Assigned|

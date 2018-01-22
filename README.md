@@ -25,7 +25,7 @@ W: Wassermann, CB: Casella Berger
 | `Lecture 12`   | 3/1 | Asymptotic evaluation of point estimations ||CB 10.1 W 9.7-9.11 | HW6 Assigned|
 | `Recitation 5` | 3/2 | ||| HW5 Due|
 | `Lecture 13`   | 3/6 | ||| |
-| `Lecture 14`   | 3/8 | ||| HW7 Assigned|
+| `Lecture 14`   | 3/8 | ||| HW7 Assigned, Term project proposals due|
 | `Recitation 6` | 3/9 | ||| HW6 Due, CHW3 Due |
 | Spring Break   | 3/13| ||| |
 | Spring Break   | 3/15| ||| |

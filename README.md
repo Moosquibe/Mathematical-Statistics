@@ -26,7 +26,7 @@ W: Wassermann, CB: Casella Berger
 | `Recitation 5` | 3/2 | ||| HW5 Due|
 | `Lecture 13`   | 3/6 | ||| |
 | `Lecture 14`   | 3/8 | ||| HW7 Assigned|
-| `Recitation 6` | 3/9 | ||| HW6 Due |
+| `Recitation 6` | 3/9 | ||| HW6 Due, CHW3 Due |
 | Spring Break   | 3/13| ||| |
 | Spring Break   | 3/15| ||| |
 | Spring Break   | 3/16| ||| |

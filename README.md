@@ -6,7 +6,7 @@ W: Wassermann, CB: Casella Berger
 
 | Lecture | Date | Description | Notebooks used | Reading | Remark |
 | --- | --- | --- | --- | --- | --- |
-| `Lecture 1`    | 1/23 | Probability Spaces, Distributions, LLN, CLT (Review) | Python_Fundamentals, Numpy_Basics, Pandas_Basics, LLN_CLT  | W 1-5, CB 1-4 | HW 1 Assigned, CHW1 Assigned | 
+| `Lecture 1`    | 1/23 | Probability Spaces, Distributions (Review) | Python_Fundamentals, Numpy_Basics, Pandas_Basics | W 1-5, CB 1-4 | HW 1 Assigned, CHW1 Assigned | 
 | `Lecture 2`    | 1/25 | Conditional Expectation, Sample mean and variance, Special distributions (Review)  || W 1-5, CB 1-5 
 | No recitation | 1/26 |  | | | |
 | `Lecture 3`    | 1/30 | Basic statistical concepts  |  | W 6 | |
@@ -22,7 +22,7 @@ W: Wassermann, CB: Casella Berger
 | `Lecture 10`   | 2/22| Attainment of the Cramer-Rao bound, Sufficiency and unbiasedness | | CB 7.3.3 | HW5 Assigned|
 | `Recitation 4` | 2/23| ||| HW4 Due|
 | `Lecture 11`   | 2/27| Statistical decision theory, loss functions, risk functions|| CB 7.3.4, W 12.1-12.3 ||
-| `Lecture 12`   | 3/1 | Asymptotic evaluation of point estimations, consistency, the delta method, efficiency ||CB 10.1.1, 5.5.4, 10.1.2, W 9.5, 9.9-9.10, 9.7 | HW6 Assigned|
+| `Lecture 12`   | 3/1 | Asymptotic evaluation of point estimations, consistency, the delta method, efficiency | LLN_CLT |CB 10.1.1, 5.5.4, 10.1.2, W 9.5, 9.9-9.10, 9.7 | HW6 Assigned|
 | `Recitation 5` | 3/2 | Robustness, Huber estimators ||| HW5 Due|
 | `Lecture 13`   | 3/6 | Hypothesis testing basics, methods of finding tests ||| |
 | `Lecture 14`   | 3/8 | Methods of evaluating tests ||| HW7 Assigned, CHW4 Assigned Term project proposals due|

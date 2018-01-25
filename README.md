@@ -6,12 +6,12 @@ W: Wassermann, CB: Casella Berger
 
 | Lecture | Date | Description | Notebooks used | Reading | Remark |
 | --- | --- | --- | --- | --- | --- |
-| `Lecture 1`    | 1/23 | Probability Spaces, Distributions, LLN, CLT (Review) | Python_Fundamentals, Numpy_Basics, Pandas_Basics, LLN_CLT  | W 1-5, CB 1-4 | HW 1 Assigned, CHW1 Assigned | 
+| `Lecture 1`    | 1/23 | Probability Spaces, Distributions (Review) | Python_Fundamentals, Numpy_Basics, Pandas_Basics | W 1-5, CB 1-4 | HW 1 Assigned, CHW1 Assigned | 
 | `Lecture 2`    | 1/25 | Conditional Expectation, Sample mean and variance, Special distributions (Review)  || W 1-5, CB 1-5 
 | No recitation | 1/26 |  | | | |
 | `Lecture 3`    | 1/30 | Basic statistical concepts  |  | W 6 | |
 | `Lecture 4`    | 2/1 | Estimation of the CDF and its functionals, nonparametric bootsrap | Empirical_CDF, cloud_seeding | W 7-8, | HW2 Assigned, CHW2 Assigned| 
-| `Recitation 1` | 2/2 | Installing Anaconda, Python, Pandas | | Bring your laptop! | HW1 Due | 
+| `Recitation 1` | 2/2 | | |  | HW1 Due | 
 | `Lecture 5`    | 2/6 | Sufficient, Ancilliary, and Complete statistics | | W 9.13.2, CB 6.2| |
 | `Lecture 6`    | 2/8 | Method of moments, Maximum likelihood estimators | | W 9.2, 9.3, 9.4, CB 7.2.1, 7.2.2| HW3 Assigned |
 | `Recitation 2` | 2/9 | Exponential families | | W 9.13.3, CB 3.4 | CHW1 Due, HW2 Due |
@@ -22,10 +22,10 @@ W: Wassermann, CB: Casella Berger
 | `Lecture 10`   | 2/22| Attainment of the Cramer-Rao bound, Sufficiency and unbiasedness | | CB 7.3.3 | HW5 Assigned|
 | `Recitation 4` | 2/23| ||| HW4 Due|
 | `Lecture 11`   | 2/27| Statistical decision theory, loss functions, risk functions|| CB 7.3.4, W 12.1-12.3 ||
-| `Lecture 12`   | 3/1 | Asymptotic evaluation of point estimations ||CB 10.1 W 9.7-9.11 | HW6 Assigned|
-| `Recitation 5` | 3/2 | Robustness, Huber estimators ||| HW5 Due|
-| `Lecture 13`   | 3/6 | Hypothesis testing basics, methods of finding tests ||| |
-| `Lecture 14`   | 3/8 | Methods of evaluating tests ||| HW7 Assigned, Term project proposals due|
+| `Lecture 12`   | 3/1 | Consistency of point estimators, CLT (Review), the delta method | LLN_CLT |CB 10.1.1, 5.5.3, 5.5.4, W 9.5, 9.9-9.10 | HW6 Assigned|
+| `Recitation 5` | 3/2 | ||| HW5 Due|
+| `Lecture 13`   | 3/6 | Asymptotic normality and efficiency of point estimators, parametric bootstrap ||CB 10.1.2-10.1.4, W 9.7, 9.8, 9.11| |
+| `Lecture 14`   | 3/8 | ||| HW7 Assigned, CHW4 Assigned Term project proposals due|
 | `Recitation 6` | 3/9 | ||| HW6 Due, CHW3 Due |
 | Spring Break   | 3/13| ||| |
 | Spring Break   | 3/15| ||| |

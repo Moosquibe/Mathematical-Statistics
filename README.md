@@ -1,4 +1,4 @@
-# Mathematical Statistics - Under construction
+# Mathematical Statistics
 
 This is the GitHub repository for the class Math-UA 234 Mathematical Statistics course given by Dr. Zsolt Pajor-Gyulai at the Courant Institute of Mathematics, New York University in the spring semester of 2018. The schedule below is tentative and is subject to change during the course of the semester.
 
@@ -7,7 +7,7 @@ W: Wassermann, CB: Casella Berger
 | Lecture | Date | Description | Notebooks used | Reading | Remark |
 | --- | --- | --- | --- | --- | --- |
 | `Lecture 1`    | 1/23 | Probability Spaces, Distributions (Review) | Python_Fundamentals, Numpy_Basics, Pandas_Basics | W 1-5, CB 1-4 | HW 1 Assigned, CHW1 Assigned | 
-| `Lecture 2`    | 1/25 | Conditional Expectation, Sample mean and variance, Special distributions (Review)  || W 1-5, CB 1-5 
+| `Lecture 2`    | 1/25 | Conditional Expectation, Sample mean and variance, Special distributions (Review)  | SpecialDistr | W 1-5, CB 1-5 
 | No recitation | 1/26 |  | | | |
 | `Lecture 3`    | 1/30 | Basic statistical concepts  |  | W 6 | |
 | `Lecture 4`    | 2/1 | Estimation of the CDF and its functionals, nonparametric bootsrap | Empirical_CDF, cloud_seeding | W 7-8, | HW2 Assigned, CHW2 Assigned| 

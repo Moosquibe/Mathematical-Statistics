@@ -25,7 +25,7 @@ W: Wassermann, CB: Casella Berger
 | `Lecture 12`   | 3/1 | Consistency of point estimators, CLT (Review), the delta method | LLN_CLT |CB 10.1.1, 5.5.3, 5.5.4, W 9.5, 9.9-9.10 | HW6 Assigned|
 | `Recitation 5` | 3/2 | ||| HW5 Due|
 | `Lecture 13`   | 3/6 | Asymptotic normality and efficiency of point estimators, parametric bootstrap ||CB 10.1.2-10.1.4, W 9.7, 9.8, 9.11| |
-| `Lecture 14`   | 3/8 | ||| HW7 Assigned, CHW4 Assigned Term project proposals due|
+| `Lecture 14`   | 3/8 | Hypothesis testing basics, Likelihood ratio test | CB 8.1, 8.2.1, W 10.6| | HW7 Assigned, CHW4 Assigned Term project proposals due|
 | `Recitation 6` | 3/9 | ||| HW6 Due, CHW3 Due |
 | Spring Break   | 3/13| ||| |
 | Spring Break   | 3/15| ||| |

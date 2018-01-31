@@ -30,8 +30,8 @@ W: Wassermann, CB: Casella Berger
 | Spring Break   | 3/13| ||| |
 | Spring Break   | 3/15| ||| |
 | Spring Break   | 3/16| ||| |
-| `Lecture 15`   | 3/20| ||| |
-| `Lecture 16`   | 3/22| ||| |
+| `Lecture 15`   | 3/20| Asymptotic distribution of LRT, Bayesian testing || CB 8.2.2, W 11.8 | |
+| `Lecture 16`   | 3/22| p-values, multiple testing ||CB 8.3.4, W 10.2| |
 | `Recitation 7` | 3/23| ||| |
 | `Lecture 17`   | 3/27| Midterm Review ||| |
 |    MIDTERM     | 3/29| ||| |

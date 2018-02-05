@@ -40,15 +40,15 @@ W: Wassermann, CB: Casella Berger
 | `Lecture 19`   | 4/5 |  Most powerful tests, Neyman-Pearson lemma || CB 8.3.2| HW9 Assigned|
 | `Recitation 9` | 4/6 | ||| HW8 Due|
 | `Lecture 20`   | 4/10| Wald test, Chi-squared test, Permutation test, Goodness of Fit test || W 10.1, 10.4, 10.5, 10.8 ||
-| `Lecture 21`   | 4/12| ||| HW10 Assigned|
+| `Lecture 21`   | 4/12| Interval estimation ||| HW10 Assigned|
 | `Recitation 10`| 4/13| ||| HW9 Due |
-| `Lecture 22`   | 4/17| ||| |
-| `Lecture 23`   | 4/19| ||| HW11 Assigned|
+| `Lecture 22`   | 4/17| Interval estimation ||| |
+| `Lecture 23`   | 4/19| Interval estimation ||| HW11 Assigned|
 | `Recitation 11`| 4/20| ||| HW10 Due|
-| `Lecture 24`   | 4/24| ||| |
-| `Lecture 25`   | 4/26| ||| Term project due |
+| `Lecture 24`   | 4/24| Multivariate normal distribution ||| |
+| `Lecture 25`   | 4/26| Linear regression ||| Term project due |
 | `Recitation 12`| 4/27| ||| |
-| `Lecture 26`   | 5/1 | ||| |
+| `Lecture 26`   | 5/1 | Logistic regression ||| |
 | `Lecture 27`   | 5/3 | Final Review ||| |
 | `In Class Final`| 5/4 | ||| HW11 Due, CHW5 Due |
 

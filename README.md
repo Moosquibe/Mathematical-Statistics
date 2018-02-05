@@ -36,10 +36,10 @@ W: Wassermann, CB: Casella Berger
 | `Lecture 17`   | 3/27| Midterm Review ||| |
 |    MIDTERM     | 3/29| ||| |
 | `Recitation 8` | 3/30| Solutions to Midterm ||| |
-| `Lecture 18`   | 4/3 | ||| |
-| `Lecture 19`   | 4/5 | ||| |
+| `Lecture 18`   | 4/3 |  Power functions, sizes, levels | | CB 8.3.1| |
+| `Lecture 19`   | 4/5 |  Most powerful tests, Neyman-Pearson lemma || CB 8.3.2| |
 | `Recitation 9` | 4/6 | ||| |
-| `Lecture 20`   | 4/10| ||| |
+| `Lecture 20`   | 4/10| Wald test, Chi-squared test, Permutation test, Goodness of Fit test| || W 10.1, 10.4, 10.5, 10.8 |
 | `Lecture 21`   | 4/12| ||| |
 | `Recitation 10`| 4/13| ||| |
 | `Lecture 22`   | 4/17| ||| |

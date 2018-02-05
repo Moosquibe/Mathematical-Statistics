@@ -31,25 +31,25 @@ W: Wassermann, CB: Casella Berger
 | Spring Break   | 3/15| ||| |
 | Spring Break   | 3/16| ||| |
 | `Lecture 15`   | 3/20| Asymptotic distribution of LRT, Bayesian testing || CB 8.2.2, W 11.8 | |
-| `Lecture 16`   | 3/22| p-values, multiple testing ||CB 8.3.4, W 10.2| |
-| `Recitation 7` | 3/23| ||| |
+| `Lecture 16`   | 3/22| p-values, multiple testing ||CB 8.3.4, W 10.2| HW8 Assigned |
+| `Recitation 7` | 3/23| ||| HW 7 Due |
 | `Lecture 17`   | 3/27| Midterm Review ||| |
 |    MIDTERM     | 3/29| ||| |
-| `Recitation 8` | 3/30| Solutions to Midterm ||| |
+| `Recitation 8` | 3/30| Solutions to Midterm ||| CHW4 Due |
 | `Lecture 18`   | 4/3 |  Power functions, sizes, levels | | CB 8.3.1| |
-| `Lecture 19`   | 4/5 |  Most powerful tests, Neyman-Pearson lemma || CB 8.3.2| |
-| `Recitation 9` | 4/6 | ||| |
+| `Lecture 19`   | 4/5 |  Most powerful tests, Neyman-Pearson lemma || CB 8.3.2| HW9 Assigned|
+| `Recitation 9` | 4/6 | ||| HW8 Due|
 | `Lecture 20`   | 4/10| Wald test, Chi-squared test, Permutation test, Goodness of Fit test || W 10.1, 10.4, 10.5, 10.8 ||
-| `Lecture 21`   | 4/12| ||| |
-| `Recitation 10`| 4/13| ||| |
+| `Lecture 21`   | 4/12| ||| HW10 Assigned|
+| `Recitation 10`| 4/13| ||| HW9 Due |
 | `Lecture 22`   | 4/17| ||| |
-| `Lecture 23`   | 4/19| ||| |
-| `Recitation 11`| 4/20| ||| |
+| `Lecture 23`   | 4/19| ||| HW11 Assigned|
+| `Recitation 11`| 4/20| ||| HW10 Due|
 | `Lecture 24`   | 4/24| ||| |
 | `Lecture 25`   | 4/26| ||| Term project due |
 | `Recitation 12`| 4/27| ||| |
 | `Lecture 26`   | 5/1 | ||| |
 | `Lecture 27`   | 5/3 | Final Review ||| |
-| `In Class Final`| 5/4 | ||| |
+| `In Class Final`| 5/4 | ||| HW11 Due, CHW5 Due |
 
 

@@ -40,7 +40,7 @@ W: Wassermann, CB: Casella Berger
 | `Lecture 19`   | 4/5 |  Most powerful tests, Neyman-Pearson lemma || CB 8.3.2| HW9 Assigned|
 | `Recitation 9` | 4/6 | ||| HW8 Due|
 | `Lecture 20`   | 4/10| Wald test, Chi-squared test, Permutation test, Goodness of Fit test || CB 10.3.2, W 10.1, 10.4, 10.5, 10.8 ||
-| `Lecture 21`   | 4/12| Interval estimation ||| HW10 Assigned|
+| `Lecture 21`   | 4/12| Interval estimation, inverting tests, pivoting ||CB 9.1, 9.2.1, 9.2.2 | HW10 Assigned|
 | `Recitation 10`| 4/13| ||| HW9 Due |
 | `Lecture 22`   | 4/17| Interval estimation ||| |
 | `Lecture 23`   | 4/19| Interval estimation ||| HW11 Assigned|

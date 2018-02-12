@@ -46,10 +46,11 @@ W: Wassermann, CB: Casella Berger
 | `Lecture 23`   | 4/19| Interval estimation ||| HW11 Assigned|
 | `Recitation 11`| 4/20| ||| HW10 Due|
 | `Lecture 24`   | 4/24| Multivariate normal distribution ||| |
-| `Lecture 25`   | 4/26| Linear regression ||| Term project due |
+| `Lecture 25`   | 4/26| Linear regression ||||
 | `Recitation 12`| 4/27| ||| |
 | `Lecture 26`   | 5/1 | Logistic regression ||| |
 | `Lecture 27`   | 5/3 | Final Review ||| |
 | `In Class Final`| 5/4 | ||| HW11 Due, CHW5 Due |
+| Nothing special | 5/8 | ||| Term project Due
 
 

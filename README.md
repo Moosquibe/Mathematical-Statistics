@@ -42,7 +42,7 @@ W: Wassermann, CB: Casella Berger
 | `Lecture 20`   | 4/10| Wald test, Chi-squared test, Permutation test, Goodness of Fit test || CB 10.3.2, W 10.1, 10.4, 10.5, 10.8 ||
 | `Lecture 21`   | 4/12| Interval estimation, inverting tests, pivoting ||CB 9.1, 9.2.1, 9.2.2 | HW10 Assigned|
 | `Recitation 10`| 4/13| ||| HW9 Due |
-| `Lecture 22`   | 4/17| Interval estimation ||| |
+| `Lecture 22`   | 4/17| CDF as a pivot, Bayesian interval, Optimal CI size for unimodal distributions || CB 9.2.3, 9.2.4, 9.3.1| |
 | `Lecture 23`   | 4/19| Interval estimation ||| HW11 Assigned|
 | `Recitation 11`| 4/20| ||| HW10 Due|
 | `Lecture 24`   | 4/24| Multivariate normal distribution ||| |

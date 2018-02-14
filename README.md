@@ -46,11 +46,11 @@ W: Wassermann, CB: Casella Berger
 | `Lecture 23`   | 4/19| Loss functions in hypothesis testing and interval estimations, Large Sample approximate intervals || CB 8.3.5, 9.3.4, 10.4.1, 10.4.2 | HW11 Assigned|
 | `Recitation 11`| 4/20| ||| HW10 Due|
 | `Lecture 24`   | 4/24| Simple linear regression || CB 11.3.1-11.3.4 W 13.1, 13.2 | |
-| `Lecture 25`   | 4/26| Estimation and prediction with simple linear regression. ||| W 13.4|
-| `Recitation 12`| 4/27| ||| |
+| `Lecture 25`   | 4/26| Estimation and prediction with simple linear regression. ||W 13.4| HW 12 Assigned|
+| `Recitation 12`| 4/27| ||| HW11 Due |
 | `Lecture 26`   | 5/1 | Logistic regression, Multiple regression || W 13.5, 13.7 CB 12.3 | |
 | `Lecture 27`   | 5/3 | Final Review ||| |
-| `In Class Final`| 5/4 | ||| HW11 Due, CHW5 Due |
+| `In Class Final`| 5/4 | ||| HW12 Due, CHW5 Due |
 | Nothing special | 5/8 | ||| Term project Due
 
 

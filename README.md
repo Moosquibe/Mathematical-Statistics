@@ -48,7 +48,7 @@ W: Wassermann, CB: Casella Berger
 | `Lecture 24`   | 4/24| Simple linear regression || CB 11.3.1-11.3.4 W 13.1, 13.2 | |
 | `Lecture 25`   | 4/26| Estimation and prediction with simple linear regression. ||| W 13.4|
 | `Recitation 12`| 4/27| ||| |
-| `Lecture 26`   | 5/1 | Logistic regression || W 13.7 CB 12.3 | |
+| `Lecture 26`   | 5/1 | Logistic regression, Multiple regression || W 13.5, 13.7 CB 12.3 | |
 | `Lecture 27`   | 5/3 | Final Review ||| |
 | `In Class Final`| 5/4 | ||| HW11 Due, CHW5 Due |
 | Nothing special | 5/8 | ||| Term project Due

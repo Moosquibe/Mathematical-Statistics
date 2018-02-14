@@ -51,6 +51,6 @@ W: Wassermann, CB: Casella Berger
 | `Lecture 26`   | 5/1 | Logistic regression, Multiple regression || W 13.5, 13.7 CB 12.3 | |
 | `Lecture 27`   | 5/3 | Final Review ||| |
 | `In Class Final`| 5/4 | ||| HW12 Due, CHW5 Due |
-| Nothing special | 5/8 | ||| Term project Due
+| Holiday!!! | 5/8 | ||| Term project Due
 
 

@@ -6,7 +6,7 @@ W: Wassermann, CB: Casella Berger
 
 | Lecture | Date | Description | Notebooks used | Reading | Remark |
 | --- | --- | --- | --- | --- | --- |
-| `Lecture 1`    | 1/23 | Probability Spaces, Distributions (Review) | [Python Fundamentals](https://github.com/Moosquibe/Mathematical-Statistics/blob/master/Notebooks/Python_Fundamentals.ipynb), Numpy_Basics, Pandas_Basics | W 1-5, CB 1-4 | HW 1 Assigned, CHW1 Assigned | 
+| `Lecture 1`    | 1/23 | Probability Spaces, Distributions (Review) | [Python Fundamentals](https://github.com/Moosquibe/Mathematical-Statistics/blob/master/Notebooks/Python_Fundamentals.ipynb), [Numpy Basics](https://github.com/Moosquibe/Mathematical-Statistics/blob/master/Notebooks/Numpy_Basics.ipynb), Pandas_Basics | W 1-5, CB 1-4 | HW 1 Assigned, CHW1 Assigned | 
 | `Lecture 2`    | 1/25 | Conditional Expectation, Sample mean and variance, Special distributions (Review)  | SpecialDistr | W 1-5, CB 1-5 
 | No recitation | 1/26 |  | | | |
 | `Lecture 3`    | 1/30 | Basic statistical concepts  |  | W 6 | |

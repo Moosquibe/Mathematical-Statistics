@@ -17,7 +17,7 @@ W: Wassermann, CB: Casella Berger
 | `Recitation 2` | 2/9 | Exponential families | [Recitation_2_FINAL](https://github.com/Moosquibe/Mathematical-Statistics/blob/master/Notebooks/Recitation_2_FINAL.ipynb "Recitation 2")| W 9.13.3, CB 3.4 | CHW1 Due, HW2 Due |
 | `Lecture 7`    | 2/13| Invariance of MLE, Computation of MLE, Bayes estimators | [EM Algorithm](https://github.com/Moosquibe/Mathematical-Statistics/blob/master/Notebooks/EM_algorithm.ipynb) | W 9.6, 11.1, 11.2, CB 7.2.2, 7.2.3, 7.2.4 | |
 | `Lecture 8`    | 2/15| More on Bayesian estimation| | W 11.3, 11.6, 11.9 | CHW3 Assigned, HW4 Assigned |
-| `Recitation 3` | 2/16| | | | HW 3 Due, CHW2 Due |
+| `Recitation 3` | 2/16| Prior and posterior distributions | [Recitation_3_FINAL](https://github.com/Moosquibe/Mathematical-Statistics/blob/master/Notebooks/Recitation_3_FINAL.ipynb "Recitation 3")| | HW 3 Due, CHW2 Due |
 | `Lecture 9`    | 2/20| Best unbiased estimators, Cramer-Rao inequality | | CB 7.3.2 ||
 | `Lecture 10`   | 2/22| Attainment of the Cramer-Rao bound, Sufficiency and unbiasedness | | CB 7.3.3 | HW5 Assigned|
 | `Recitation 4` | 2/23| ||| HW4 Due|

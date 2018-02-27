@@ -20,7 +20,7 @@ W: Wassermann, CB: Casella Berger
 | `Recitation 3` | 2/16| Prior and posterior distributions | [Recitation_3_FINAL](https://github.com/Moosquibe/Mathematical-Statistics/blob/master/Notebooks/Recitation_3_FINAL.ipynb "Recitation 3")| | HW 3 Due, CHW2 Due |
 | `Lecture 9`    | 2/20| Best unbiased estimators, Cramer-Rao inequality | | CB 7.3.2 ||
 | `Lecture 10`   | 2/22| Attainment of the Cramer-Rao bound, Sufficiency and unbiasedness | | CB 7.3.3 | HW5 Assigned|
-| `Recitation 4` | 2/23| ||| HW4 Due|
+| `Recitation 4` | 2/23| Cramer-Rao inequality, Rao-Blackwell theorem |[Recitation_4_FINAL](https://github.com/Moosquibe/Mathematical-Statistics/blob/master/Notebooks/Recitation_4_FINAL.ipynb "Recitation 4")|| HW4 Due|
 | `Lecture 11`   | 2/27| Statistical decision theory, loss functions, risk functions|| CB 7.3.4, W 12.1-12.3 ||
 | `Lecture 12`   | 3/1 | Consistency of point estimators, CLT (Review), the delta method | LLN_CLT |CB 10.1.1, 5.5.3, 5.5.4, W 9.5, 9.9-9.10 | HW6 Assigned|
 | `Recitation 5` | 3/2 | ||| HW5 Due|

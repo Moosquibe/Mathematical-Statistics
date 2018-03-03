@@ -2,6 +2,8 @@
 
 This is the GitHub repository for the class Math-UA 234 Mathematical Statistics course given by Dr. Zsolt Pajor-Gyulai at the Courant Institute of Mathematics, New York University in the spring semester of 2018. The schedule below is tentative and is subject to change during the course of the semester.
 
+Project sign up form [here](https://goo.gl/forms/MQZ4LeL0Ie2LuYPF2)
+
 W: Wassermann, CB: Casella Berger
 
 | Lecture | Date | Description | Notebooks used | Reading | Remark |

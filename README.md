@@ -24,7 +24,7 @@ W: Wassermann, CB: Casella Berger
 | `Lecture 10`   | 2/22| Attainment of the Cramer-Rao bound, Sufficiency and unbiasedness | | CB 7.3.3 | HW5 Assigned|
 | `Recitation 4` | 2/23| Cramer-Rao inequality, Rao-Blackwell theorem |[Recitation_4_FINAL](https://github.com/Moosquibe/Mathematical-Statistics/blob/master/Notebooks/Recitation_4_FINAL.ipynb "Recitation 4")|| HW4 Due|
 | `Lecture 11`   | 2/27| Statistical decision theory, loss functions, risk functions|| CB 7.3.4, W 12.1-12.3 ||
-| `Lecture 12`   | 3/1 | Consistency of point estimators, CLT (Review), the delta method | LLN_CLT |CB 10.1.1, 5.5.3, 5.5.4, W 9.5, 9.9-9.10 | HW6 Assigned|
+| `Lecture 12`   | 3/1 | Consistency of point estimators, CLT (Review), the delta method | [LLN_CLT](https://github.com/Moosquibe/Mathematical-Statistics/blob/master/Notebooks/LLN_CLT.ipynb) |CB 10.1.1, 5.5.3, 5.5.4, W 9.5, 9.9-9.10 | HW6 Assigned|
 | `Recitation 5` | 3/2 | ||| HW5 Due|
 | `Lecture 13`   | 3/6 | Asymptotic normality and efficiency of point estimators, parametric bootstrap ||CB 10.1.2-10.1.4, W 9.7, 9.8, 9.11| |
 | `Lecture 14`   | 3/8 | Hypothesis testing basics, Likelihood ratio test || CB 8.1, 8.2.1, W 10.6| HW7 Assigned, CHW4 Assigned Term project proposals due|

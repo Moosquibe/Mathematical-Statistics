@@ -37,7 +37,7 @@ W: Wassermann, CB: Casella Berger
 | `Recitation 7` | 3/23| ||| HW 7 Due |
 | `Lecture 17`   | 3/27| Midterm Review ||| |
 |    MIDTERM     | 3/29| ||| |
-| `Recitation 8` | 3/30| Solutions to Midterm ||| CHW4 Due |
+| `Recitation 8` | 3/30| Solutions to Midterm ||| |
 | `Lecture 18`   | 4/3 |  Power functions, sizes, levels | | CB 8.3.1| |
 | `Lecture 19`   | 4/5 |  Most powerful tests, Neyman-Pearson lemma || CB 8.3.2| HW9 Assigned|
 | `Recitation 9` | 4/6 | ||| HW8 Due|
@@ -45,8 +45,8 @@ W: Wassermann, CB: Casella Berger
 | `Lecture 21`   | 4/12| Interval estimation, inverting tests, pivoting ||CB 9.1, 9.2.1, 9.2.2 | HW10 Assigned|
 | `Recitation 10`| 4/13| ||| HW9 Due |
 | `Lecture 22`   | 4/17| CDF as a pivot, Bayesian interval, Optimal CI size for unimodal distributions || CB 9.2.3, 9.2.4, 9.3.1| |
-| `Lecture 23`   | 4/19| Loss functions in hypothesis testing and interval estimations, Large Sample approximate intervals || CB 8.3.5, 9.3.4, 10.4.1, 10.4.2 | HW11 Assigned|
-| `Recitation 11`| 4/20| ||| HW10 Due|
+| `Lecture 23`   | 4/19| Loss functions in hypothesis testing and interval estimations, Large Sample approximate intervals || CB 8.3.5, 9.3.4, 10.4.1, 10.4.2 | CHW5 Assigned, HW11 Assigned|
+| `Recitation 11`| 4/20| ||| HW10 Due, CHW4 Due|
 | `Lecture 24`   | 4/24| Simple linear regression || CB 11.3.1-11.3.4 W 13.1, 13.2 | |
 | `Lecture 25`   | 4/26| Estimation and prediction with simple linear regression. ||W 13.4| HW 12 Assigned|
 | `Recitation 12`| 4/27| ||| HW11 Due |

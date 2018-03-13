@@ -28,7 +28,7 @@ W: Wassermann, CB: Casella Berger
 | `Recitation 5` | 3/2 | Loss functions and risk |[Recitation_5_FINAL](https://github.com/Moosquibe/Mathematical-Statistics/blob/master/Notebooks/Recitation_5_FINAL.ipynb "Recitation 5")|  CB 7.61 7.65 and W9.14.4 Example data sources| HW5 Due|
 | `Lecture 13`   | 3/6 | Asymptotic normality and efficiency of point estimators, parametric bootstrap ||CB 10.1.2-10.1.4, W 9.7, 9.8, 9.11| |
 | `Lecture 14`   | 3/8 | Hypothesis testing basics, Likelihood ratio test || CB 8.1, 8.2.1, W 10.6| HW7 Assigned, CHW4 Assigned Term project proposals due|
-| `Recitation 6` | 3/9 | ||| HW6 Due, CHW3 Due |
+| `Recitation 6` | 3/9 |Asymptotic efficiency, ARE, hypothesis testing and MLR tests |[Recitation_6_FINAL](https://github.com/Moosquibe/Mathematical-Statistics/blob/master/Notebooks/Recitation_6_FINAL.ipynb)|| HW6 Due, CHW3 Due |
 | Spring Break   | 3/13| ||| |
 | Spring Break   | 3/15| ||| |
 | Spring Break   | 3/16| ||| |

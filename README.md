@@ -34,7 +34,7 @@ W: Wassermann, CB: Casella Berger
 | Spring Break   | 3/16| ||| |
 | `Lecture 15`   | 3/20| Asymptotic distribution of LRT, Bayesian testing || CB 8.2.2, W 11.8 | |
 | `Lecture 16`   | 3/22| p-values, multiple testing ||CB 8.3.4, W 10.2| HW8 Assigned |
-| `Recitation 7` | 3/23| ||| HW 7 Due |
+| `Recitation 7` | 3/23| |[Recitation_7_FINAL](https://github.com/Moosquibe/Mathematical-Statistics/blob/master/Notebooks/Recitation_7_FINAL.ipynb)|| HW 7 Due |
 | `Lecture 17`   | 3/27| Midterm Review ||| |
 |    MIDTERM     | 3/29| ||| |
 | `Recitation 8` | 3/30| Solutions to Midterm ||| |

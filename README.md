@@ -41,7 +41,7 @@ W: Wassermann, CB: Casella Berger
 | `Lecture 18`   | 4/3 |  Power functions, sizes, levels | | CB 8.3.1| |
 | `Lecture 19`   | 4/5 |  Most powerful tests, Neyman-Pearson lemma || CB 8.3.2| HW9 Assigned|
 | `Recitation 9` | 4/6 | ||| HW8 Due|
-| `Lecture 20`   | 4/10| Wald test, Chi-squared test, Permutation test, Goodness of Fit test |[Popular Statistical Tests](https://github.com/Moosquibe/Mathematical-Statistics/blob/master/Notebooks/Some%20popular%20statistical%20tests.ipynb) [Recitation_10_FINAL](https://github.com/Moosquibe/Mathematical-Statistics/blob/master/Notebooks/Recitation_10_FINAL.ipynb) [More_test_detai](https://github.com/Moosquibe/Mathematical-Statistics/blob/master/Notebooks/More_test_detail.ipynb)| CB 10.3.2, W 10.1, 10.4, 10.5, 10.8 ||
+| `Lecture 20`   | 4/10| Wald test, Chi-squared test, Permutation test, Goodness of Fit test |[Popular Statistical Tests](https://github.com/Moosquibe/Mathematical-Statistics/blob/master/Notebooks/Some%20popular%20statistical%20tests.ipynb) [Recitation_10_FINAL](https://github.com/Moosquibe/Mathematical-Statistics/blob/master/Notebooks/Recitation_10_FINAL.ipynb) [More_test_detail](https://github.com/Moosquibe/Mathematical-Statistics/blob/master/Notebooks/More_test_detail.ipynb)| CB 10.3.2, W 10.1, 10.4, 10.5, 10.8 ||
 | `Lecture 21`   | 4/12| Interval estimation, inverting tests, pivoting ||CB 9.1, 9.2.1, 9.2.2 | HW10 Assigned|
 | `Recitation 10`| 4/13| ||| HW9 Due |
 | `Lecture 22`   | 4/17| CDF as a pivot, Bayesian interval, Optimal CI size for unimodal distributions || CB 9.2.3, 9.2.4, 9.3.1| |

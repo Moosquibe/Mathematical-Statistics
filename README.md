@@ -45,7 +45,7 @@ W: Wassermann, CB: Casella Berger
 | `Lecture 21`   | 4/12| Interval estimation, inverting tests, pivoting ||CB 9.1, 9.2.1, 9.2.2 | HW10 Assigned|
 | `Recitation 10`| 4/13| ||| HW9 Due |
 | `Lecture 22`   | 4/17| CDF as a pivot, Bayesian interval, Optimal CI size for unimodal distributions || CB 9.2.3, 9.2.4, 9.3.1| |
-| `Lecture 23`   | 4/19| Causal Inference || CB 10.4.1, 10.4.2, W 16 | CHW5 Assigned, HW11 Assigned|
+| `Lecture 23`   | 4/19| Causal Inference || CB 10.4.1, 10.4.2, W 16 | HW11 Assigned|
 | `Recitation 11`| 4/20| Large Sample approximate intervals, Simpson's paradox||| HW10 Due, CHW4 Due|
 | `Lecture 24`   | 4/24| Simple linear regression || CB 11.3.1-11.3.4 W 13.1, 13.2 | |
 | `Lecture 25`   | 4/26| Estimation and prediction with simple linear regression. ||W 13.4| HW 12 Assigned|
